@@ -1,7 +1,7 @@
 # WAHDINA-AZIZAH
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **WAHDINA AZIZAH**.\
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
 
